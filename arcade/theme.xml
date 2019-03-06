@@ -1,0 +1,30 @@
+<!--
+theme name:		BASE-DEV
+Original theme name:		BIGGRID
+version:		1.0
+author:			DOCK-PI3 
+Fork para MasOS creado por:		MasOS Team
+INFO: Theme base para crear desde cero de una forma facil!
+-->
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../BASE-DEV.xml</include>
+
+	<view name="system">			
+	</view>
+
+	<view name="basic">		
+	</view>
+	
+	<view name="detailed">		
+	</view>
+
+	<view name="basic, detailed, system, video, grid">
+	
+		<image name="logo">
+			<path>./system.svg</path>
+		</image>
+	
+	</view>
+	
+</theme>
